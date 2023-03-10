@@ -1,5 +1,5 @@
 - 👋 Hi, I’m div
-- 👀 I’m love cars
+- 👀 I love cars
 - 🌱 I’m trying python
 - 💞️ helpme?
 - 📫 redditme: divsenpai7
