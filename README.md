@@ -1,6 +1,6 @@
 - 👋 Hi, I’m div
 - 👀 I love cars
-- 🌱 I’m trying ~~python~~
+- 🌱 I’m trying ~~python~~ now js
 - 💞️ helpme?
 - 📫 redditme: divsenpai7
 
